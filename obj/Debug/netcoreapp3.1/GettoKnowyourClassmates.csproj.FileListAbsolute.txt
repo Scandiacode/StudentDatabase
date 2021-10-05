@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\GettoKnowyourClassmates\bin\Debug\netcoreapp3.1\GettoKnowyourClassmates.exe
+C:\Users\logan\source\repos\GettoKnowyourClassmates\bin\Debug\netcoreapp3.1\GettoKnowyourClassmates.deps.json
+C:\Users\logan\source\repos\GettoKnowyourClassmates\bin\Debug\netcoreapp3.1\GettoKnowyourClassmates.runtimeconfig.json
+C:\Users\logan\source\repos\GettoKnowyourClassmates\bin\Debug\netcoreapp3.1\GettoKnowyourClassmates.runtimeconfig.dev.json
+C:\Users\logan\source\repos\GettoKnowyourClassmates\bin\Debug\netcoreapp3.1\GettoKnowyourClassmates.dll
+C:\Users\logan\source\repos\GettoKnowyourClassmates\bin\Debug\netcoreapp3.1\GettoKnowyourClassmates.pdb
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.AssemblyInfo.cs
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.dll
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.pdb
+C:\Users\logan\source\repos\GettoKnowyourClassmates\obj\Debug\netcoreapp3.1\GettoKnowyourClassmates.genruntimeconfig.cache
